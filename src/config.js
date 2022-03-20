@@ -1,19 +1,14 @@
 export const CONFIG = {
 	TEMPLATE: {
-		// 1. Set your NFT collection contract address
-		collection_address: '0xBd0136694e9382127602abFa5AA0679752eaD313',
-
-		// 2. Set your blockchain chain ID where your NFT collection contract address is deployed (see below for value options)
-		block_chain_id: '80001',
-
-		// 3. Set the default title of your dashboard. If found, this template uses the NFT Collection name for the title.
+		// Kovan contract address
+		collection_address: '0xf6Cc7488c5b6Ce204089872AFb46aE957b563F7D',
+		// Note: Class A endpoints (NFTs) are not supported on Polygon, but they are on Arbitrum
+		block_chain_id: '42', // Kovan
+		// Set the default title of your dashboard. If found, this template uses the NFT Collection name for the title.
 		title: 'PolyEchoNFT Collection',
-
-		// 4. (Optional) Display the floor price chart
+		// Display the floor price chart
 		timeseries_chart: true,
-
-		// 5. (Optional) Set your banner image
-		// PolyEchoNFT Default Image
+		// Set the banner image to PolyEchoNFT Default Image from NFT.storage
 		banner_picture:
 			'https://bafkreia7jo3bjr2mirr5h2okf5cjsgg6zkz7znhdboyikchoe6btqyy32u.ipfs.dweb.link/',
 	},
