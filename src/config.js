@@ -1,10 +1,17 @@
 export const CONFIG = {
+	// Note: Class A endpoints (NFTs) are not supported on Polygon, but they are on Arbitrum
 	TEMPLATE: {
 		// Kovan contract address - https://kovan.etherscan.io/address/0xaeca10e3d2db048db77d8c3f86a9b013b0741ba2
 		collection_address: '0xaeca10e3d2db048db77d8c3f86a9b013b0741ba2',
+		block_chain_id: 42,
 
-		// Note: Class A endpoints (NFTs) are not supported on Polygon, but they are on Arbitrum
-		block_chain_id: '42', // Kovan
+		// Polygon Testnet (Mumbai) address - https://mumbai.polygonscan.com/address/0xBd0136694e9382127602abFa5AA0679752eaD313
+		// collection_address: '0xBd0136694e9382127602abFa5AA0679752eaD313',
+		// block_chain_id: 80001,
+
+		// Arbitrum Testnet (Rinkeby) address -
+		// collection_address: ,
+		// block_chain_id: 421611,
 
 		// Set the default title of your dashboard. If found, this template uses the NFT Collection name for the title.
 		title: 'PolyEchoNFT Collection',
