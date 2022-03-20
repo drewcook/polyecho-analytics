@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/nft-dashboard-template/static/css/main.f48c2a0c.chunk.css",
-    "main.js": "/nft-dashboard-template/static/js/main.6388c597.chunk.js",
-    "main.js.map": "/nft-dashboard-template/static/js/main.6388c597.chunk.js.map",
-    "runtime-main.js": "/nft-dashboard-template/static/js/runtime-main.c210edee.js",
-    "runtime-main.js.map": "/nft-dashboard-template/static/js/runtime-main.c210edee.js.map",
-    "static/js/2.e394fbaa.chunk.js": "/nft-dashboard-template/static/js/2.e394fbaa.chunk.js",
-    "static/js/2.e394fbaa.chunk.js.map": "/nft-dashboard-template/static/js/2.e394fbaa.chunk.js.map",
-    "index.html": "/nft-dashboard-template/index.html",
-    "static/css/main.f48c2a0c.chunk.css.map": "/nft-dashboard-template/static/css/main.f48c2a0c.chunk.css.map",
-    "static/js/2.e394fbaa.chunk.js.LICENSE.txt": "/nft-dashboard-template/static/js/2.e394fbaa.chunk.js.LICENSE.txt",
-    "static/media/Back.8af6b2fe.svg": "/nft-dashboard-template/static/media/Back.8af6b2fe.svg",
-    "static/media/Covalent-Background_5.cc7bc02b.jpg": "/nft-dashboard-template/static/media/Covalent-Background_5.cc7bc02b.jpg",
-    "static/media/App.css": "/nft-dashboard-template/static/media/alert.6e5425f9.svg",
-    "static/media/banner.e7e48588.png": "/nft-dashboard-template/static/media/banner.e7e48588.png",
-    "static/media/covalent-logo-loop_dark_v2.d4efb9c1.gif": "/nft-dashboard-template/static/media/covalent-logo-loop_dark_v2.d4efb9c1.gif",
-    "static/media/logo.00ecc9d5.svg": "/nft-dashboard-template/static/media/logo.00ecc9d5.svg"
+    "main.css": "/drewcook/polyecho-analytics.git/static/css/main.07d7bb0e.chunk.css",
+    "main.js": "/drewcook/polyecho-analytics.git/static/js/main.ecc43d82.chunk.js",
+    "main.js.map": "/drewcook/polyecho-analytics.git/static/js/main.ecc43d82.chunk.js.map",
+    "runtime-main.js": "/drewcook/polyecho-analytics.git/static/js/runtime-main.06a2c74e.js",
+    "runtime-main.js.map": "/drewcook/polyecho-analytics.git/static/js/runtime-main.06a2c74e.js.map",
+    "static/js/2.6f427e6c.chunk.js": "/drewcook/polyecho-analytics.git/static/js/2.6f427e6c.chunk.js",
+    "static/js/2.6f427e6c.chunk.js.map": "/drewcook/polyecho-analytics.git/static/js/2.6f427e6c.chunk.js.map",
+    "index.html": "/drewcook/polyecho-analytics.git/index.html",
+    "static/css/main.07d7bb0e.chunk.css.map": "/drewcook/polyecho-analytics.git/static/css/main.07d7bb0e.chunk.css.map",
+    "static/js/2.6f427e6c.chunk.js.LICENSE.txt": "/drewcook/polyecho-analytics.git/static/js/2.6f427e6c.chunk.js.LICENSE.txt",
+    "static/media/Back.8af6b2fe.svg": "/drewcook/polyecho-analytics.git/static/media/Back.8af6b2fe.svg",
+    "static/media/Covalent-Background_5.cc7bc02b.jpg": "/drewcook/polyecho-analytics.git/static/media/Covalent-Background_5.cc7bc02b.jpg",
+    "static/media/App.css": "/drewcook/polyecho-analytics.git/static/media/alert.6e5425f9.svg",
+    "static/media/banner.e7e48588.png": "/drewcook/polyecho-analytics.git/static/media/banner.e7e48588.png",
+    "static/media/covalent-logo-loop_dark_v2.d4efb9c1.gif": "/drewcook/polyecho-analytics.git/static/media/covalent-logo-loop_dark_v2.d4efb9c1.gif",
+    "static/media/logo.00ecc9d5.svg": "/drewcook/polyecho-analytics.git/static/media/logo.00ecc9d5.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c210edee.js",
-    "static/js/2.e394fbaa.chunk.js",
-    "static/css/main.f48c2a0c.chunk.css",
-    "static/js/main.6388c597.chunk.js"
+    "static/js/runtime-main.06a2c74e.js",
+    "static/js/2.6f427e6c.chunk.js",
+    "static/css/main.07d7bb0e.chunk.css",
+    "static/js/main.ecc43d82.chunk.js"
   ]
 }
